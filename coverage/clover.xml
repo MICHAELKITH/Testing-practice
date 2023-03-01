@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1677665448806" clover="3.2.0">
+  <project timestamp="1677665448807" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="8" elements="22" coveredelements="22" complexity="0" loc="10" ncloc="10" packages="1" files="2" classes="2"/>
+    <file name="calculator.js" path="C:\Users\USER\OneDrive\Desktop\microverse projects\Testing-practice\calculator.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="12" count="3" type="cond" truecount="2" falsecount="0"/>
+    </file>
+    <file name="string.js" path="C:\Users\USER\OneDrive\Desktop\microverse projects\Testing-practice\string.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -10,7 +10,7 @@
   "version": "1.0.0",
   "main": "string.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "keywords": [],
   "author": "",
