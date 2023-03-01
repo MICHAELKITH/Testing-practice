@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "D": "^1.0.0"
+  },
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "main": "string.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
